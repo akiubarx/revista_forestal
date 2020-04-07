@@ -25,13 +25,13 @@ define('WP_AUTO_UPDATE_CORE', 'minor');// This setting is required to make sure 
 define( 'DB_NAME', 'revistaforestal' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'revistaforestal' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'R3v1st4f0r3st4l' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost:3306' );
+define( 'DB_HOST', 'pirul.conafor.gob.mx' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
