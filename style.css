@@ -1,0 +1,29 @@
+.single-post .newsmag-custom-header:before, .page .newsmag-custom-header:before, .blog .newsmag-custom-header:before, .category .newsmag-custom-header:before, .date .newsmag-custom-header:before, .tag .newsmag-custom-header:before, .search .newsmag-custom-header:before {
+    background: transparent;
+    background: #378259;
+}
+.main-navigation {
+    background: #378259;
+}
+.newsmag-breadcrumbs {
+    color: #378259;
+}
+.widget:not(.widget_newsmag_banner):not(.newsmag_slider) > h3 {
+    color: #378259;
+}
+.form-submit .submit {
+    border-color: #378259;
+    background: #378259;
+}
+.site-info {
+    background-color: #378259;
+}
+.widget:not(.widget_newsmag_banner):not(.newsmag_slider).widget_categories > ul > li:before, .widget:not(.widget_newsmag_banner):not(.newsmag_slider).widget_archive > ul > li:before, .widget:not(.widget_newsmag_banner):not(.newsmag_slider).widget_meta > ul > li:before, .widget:not(.widget_newsmag_banner):not(.newsmag_slider).widget_pages > ul > li:before {
+    color: #378259;
+}
+.widget_search .search-form::before {
+    color: #378259;
+}
+.newsmag-breadcrumbs a {
+    color: #378259;
+}
